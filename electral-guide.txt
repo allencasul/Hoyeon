@@ -42,7 +42,7 @@ then add this json data:
      "installerIcon": "../public/electron.ico",
      "uninstallerIcon": "../public/electron.ico",
      "uninstallDisplayName": "Electral-uninstaller",
-     "license": "../MIT.md",
+     "license": "../license.md",
      "allowToChangeInstallationDirectory": false
   }
 },
