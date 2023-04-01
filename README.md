@@ -1,2 +1,2 @@
 # Electral
-Electral is a unified electron boilerplate for building desktop app using ElectronJS, and paired with Rizal CSS Framework.
+Electral is a unified electron resources for building desktop app using ElectronJS.
