@@ -1,0 +1,48 @@
+STEP #1. npm init
+
+"main": "src/js/main.js",
+
+"scripts": {
+  "test": "electron ."
+},
+
+-----------------------------------------------------------
+
+STEP #2. npm install --save-dev electron
+
+-----------------------------------------------------------
+
+STEP #3. npm test
+
+-----------------------------------------------------------
+
+STEP #4. npm i --save-dev electron-builder
+
+"scripts": {
+  "start": "electron .",
+  "build": "electron-builder"
+},
+
+then add this json data:
+
+"build": {
+  "appId": "Electral",
+  "win": {
+    "target": [
+      "nsis"
+    ],
+      "icon": "../public/electron.ico"
+  },
+  "nsis": {
+     "oneClick": false,
+     "installerIcon": "../public/electron.ico",
+     "uninstallerIcon": "../public/electron.ico",
+     "uninstallDisplayName": "Electral-uninstaller",
+     "license": "../license.md",
+     "allowToChangeInstallationDirectory": false
+  }
+},
+
+-----------------------------------------------------------
+
+STEP #6. npm run build

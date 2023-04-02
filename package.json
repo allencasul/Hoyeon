@@ -1,0 +1,28 @@
+{
+  "name": "electral",
+  "version": "1.0.0",
+  "description": "A GUI using ElectronJS",
+  "main": "src/js/main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allencasul/Electral.git"
+  },
+  "keywords": [
+    "Electral",
+    "electral",
+    "ElectronJS",
+    "electronjs"
+  ],
+  "author": "Allen Charls Casul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allencasul/Electral/issues"
+  },
+  "homepage": "https://github.com/allencasul/Electral#readme",
+  "devDependencies": {
+    "electron": "^23.2.1"
+  }
+}
