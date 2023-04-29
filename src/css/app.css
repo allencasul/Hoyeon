@@ -1,0 +1,27 @@
+section {
+  user-select: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#btn {
+  margin-top: 2rem;
+  width: 115px;
+  padding: 13px;
+  border: none;
+  outline: none;
+  background-color: #3d45cf;
+  color: #ffffff;
+  font-size: 18px;
+  border-radius: 6px;
+  transition: .2s;
+}
+
+#btn:hover {
+  background-color: #353cc0;
+}
