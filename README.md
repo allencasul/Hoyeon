@@ -1,2 +1,2 @@
-# Electral
-Electral is a unified electron resources for building desktop app using ElectronJS.
+# Hoyeon
+Hoyeon is a unified electron resources for building desktop app using ElectronJS. It was named after Jung Ho-yeon, also known as Hoyeon Jung, is a South Korean model and actress. Jung made her acting debut in 2021, starring in the Netflix series Squid Game as Kang Sae-byeok, player 067, which brought her worldwide attention and critical acclaim as the series' breakout star.
