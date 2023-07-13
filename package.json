@@ -1,5 +1,5 @@
 {
-  "name": "electral",
+  "name": "hoyeon",
   "version": "1.0.0",
   "description": "A GUI using ElectronJS",
   "main": "src/js/main.js",
@@ -11,17 +11,17 @@
     "url": "git+https://github.com/allencasul/Electral.git"
   },
   "keywords": [
-    "Electral",
-    "electral",
+    "Hoyeon",
+    "hoyeon",
     "ElectronJS",
     "electronjs"
   ],
   "author": "Allen Charls Casul",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/allencasul/Electral/issues"
+    "url": "https://github.com/allencasul/Hoyeon/issues"
   },
-  "homepage": "https://github.com/allencasul/Electral#readme",
+  "homepage": "https://github.com/allencasul/Hoyeon#readme",
   "devDependencies": {
     "electron": "^23.2.1"
   }
