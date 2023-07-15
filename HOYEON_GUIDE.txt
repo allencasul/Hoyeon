@@ -41,7 +41,7 @@ then add this json data:
      "license": "../license.md",
      "allowToChangeInstallationDirectory": false
   }
-},
+}
 
 -----------------------------------------------------------
 
