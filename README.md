@@ -3,7 +3,7 @@ Hoyeon is a unified electron resources for building desktop app using ElectronJS
 
 <img src="https://firebasestorage.googleapis.com/v0/b/lonica.appspot.com/o/gif%2Fanigif_sub-buzz-13178-1633984413-1.gif?alt=media&token=8d5e245e-ba45-44ed-8be6-b64cc589397a" style="max-width:100%;" width="360">
 
-### STEP #1. 
+### STEP #1
 
 ```sh
 - npm init
@@ -15,13 +15,13 @@ Hoyeon is a unified electron resources for building desktop app using ElectronJS
 },
 ```
 
-### STEP #2. 
+### STEP #2
 
 ```sh
 npm install --save-dev electron
 ```
 
-### STEP #3. 
+### STEP #3
 
 ```sh
 npm test
@@ -58,7 +58,7 @@ then add this json data:
 }
 ```
 
-## STEP #6. 
+## STEP #5
 
 ```sh
 npm run build
